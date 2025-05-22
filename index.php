@@ -73,6 +73,7 @@ if (isset($_GET['msg']) && isset($_GET['type'])) {
 }
 
 ?>
+    
 <!DOCTYPE html>
 <html lang="en">
 <head>
